@@ -32,6 +32,7 @@ Implementation using C or pyhton code
 ## PROGRAM:
 PROGRAM:
 CaearCipher.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -127,6 +128,7 @@ To decrypt, use the INVERSE (opposite) of the last 3 rules, and the 1st as-is (d
 
 
 ## PROGRAM:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -315,6 +317,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 ## PROGRAM:
 PROGRAM:
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -440,6 +443,7 @@ The Vigenere cipher is a method of encrypting alphabetic text by using a series 
 
 ## PROGRAM:
 PROGRAM:
+
 #include <stdio.h>
 #include <string.h>
 
@@ -530,6 +534,7 @@ In the rail fence cipher, the plaintext is written downwards and diagonally on s
 ## PROGRAM:
 
 PROGRAM:
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
